@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - houchuyi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - houchuyi/MIE1512-Project
+  - houchuyi/TheAuctionHouse
+  - houchuyi/Producing-360-Degree-Panoramas-Using-the-CPET-Dataset

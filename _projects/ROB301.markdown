@@ -1,0 +1,20 @@
+---
+layout: page
+title: The Galbraith Memorial Mail Robot
+description: Introduction to Robotics Course Project 2019
+img: /assets/img/ROB301/1.PNG
+# redirect: https://unsplash.com
+importance: 3
+category: University
+---
+
+University of Toronto
+
+ROB301: Introduction to Robotics course project 2019
+
+[Instructor: Prof. G.M.T.D'Eleuterio](https://www.utias.utoronto.ca/research-and-centres/space-robotics/){:target="\_blank"} 
+
+[Github Repo](https://github.com/houchuyi/Robotic-Control-ROB301){:target="\_blank"} 
+
+
+[Turtlebot 3 Waffle Pi](https://www.robotis.us/turtlebot-3-waffle-pi/){:target="\_blank"} 

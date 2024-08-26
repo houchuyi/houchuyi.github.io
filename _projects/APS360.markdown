@@ -1,0 +1,50 @@
+---
+layout: page
+title: Deep Learning Food Recognition Model
+description: Artificial Intelligence Fundamentals Course Project 2019
+img: /assets/img/APS360/5.PNG
+importance: 2
+category: University
+---
+
+University of Toronto
+
+APS360: Artificial Intelligence Fundamentals Course Project 2019
+
+[Instructor: Prof. Lisa Zhang](http://www.lisazhang.ca/){:target="\_blank"} 
+
+[Github repo](https://github.com/thomas-enxuli/Deep-Learning-Food-Detection-Model){:target="\_blank"} 
+
+We, as a team of three, aimed to create a module that would identify food categoreis from an overview photo of a meal. We trained a supervised machine learning model that can perform detection from unseen images quickly and conveniently, then propose bounding boxes for food seen in the image, finally classify food categories from the input image of a meal.
+
+The machine learning model we used was Faster R-CNN (ResNet based).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/3.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Faster R-CNN Model Architecture
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/4.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    The processed data has the resided image, ground truth bounding boxes, and labels.
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/1.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/2.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Sample outputs from our model.
+</div>

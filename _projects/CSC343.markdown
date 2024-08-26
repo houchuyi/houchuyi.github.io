@@ -11,9 +11,9 @@ University of Toronto
 
 CSC343: Introduction to Database course project 2020
 
-[Instructor: Prof. Diane Horton](http://www.cs.toronto.edu/~dianeh/){:target="\_blank"} 
+<a href="http://www.cs.toronto.edu/~dianeh/" target="_blank" style="font-size: 20px; font-weight: bold;">Instructor: Prof. Diane Horton</a>
 
-[Project Report](../assets/pdf/YouTube_Trending_Video_Database_Analysis.pdf){:target="\_blank"} 
+<a href="/assets/pdf/YouTube_Trending_Video_Database_Analysis.pdf" target="_blank" style="font-size: 20px; font-weight: bold;">Project Report</a>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">

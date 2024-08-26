@@ -15,7 +15,7 @@ Introducing Parsir—your ultimate solution for revolutionizing document interac
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Parsir/pinch.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Parsir/pinch.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ Introducing Parsir—your ultimate solution for revolutionizing document interac
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Parsir/twist.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Parsir/twist.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

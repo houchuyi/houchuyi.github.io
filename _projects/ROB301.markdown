@@ -12,9 +12,9 @@ University of Toronto
 
 ROB301: Introduction to Robotics course project 2019
 
-[Instructor: Prof. G.M.T.D'Eleuterio](https://www.utias.utoronto.ca/research-and-centres/space-robotics/){:target="\_blank"} 
+<a href="https://www.utias.utoronto.ca/research-and-centres/space-robotics/" target="_blank" style="font-size: 20px; font-weight: bold;">Instructor: Prof. G.M.T.D'Eleuterio</a>
 
-[Github Repo](https://github.com/houchuyi/Robotic-Control-ROB301){:target="\_blank"} 
+<a href="https://github.com/houchuyi/Robotic-Control-ROB301" target="_blank" style="font-size: 20px; font-weight: bold;">Github Repo</a>
 
+<a href="https://www.robotis.us/turtlebot-3-waffle-pi/" target="_blank" style="font-size: 20px; font-weight: bold;">Turtlebot 3 Waffle Pi</a>
 
-[Turtlebot 3 Waffle Pi](https://www.robotis.us/turtlebot-3-waffle-pi/){:target="\_blank"} 

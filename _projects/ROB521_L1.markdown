@@ -11,11 +11,11 @@ University of Toronto
 
 ROB521: Mobile Robotics and Perception Practicum Project 2022
 
-[Instructor: Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/stevenwaslander){:target="\_blank"} 
+<a href="https://www.trailab.utias.utoronto.ca/stevenwaslander"\_blank" target="_blank" style="font-size: 20px; font-weight: bold;">Instructor: Prof. Steven L. Waslander</a>
 
-[Project Report](../assets/pdf/ROB521_Lab2.pdf){:target="\_blank"} 
+<a href="/assets/pdf/ROB521_Lab2.pdf"\_blank" target="_blank" style="font-size: 20px; font-weight: bold;">Project Report</a>
 
-[Waypoint tracking video](https://drive.google.com/file/d/14g-Fy2Ya11akTYwyFL0hfii8IQDOAIlx/view?usp=sharing){:target="\_blank"} 
+<a href="[/assets/pdf/ROB521_Lab2.pdf](https://drive.google.com/file/d/14g-Fy2Ya11akTYwyFL0hfii8IQDOAIlx/view?usp=sharing)"\_blank" target="_blank" style="font-size: 20px; font-weight: bold;">Waypoint tracking video</a>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">

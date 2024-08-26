@@ -18,7 +18,7 @@ I was responsible for the backend development of the Caladan platform, focusing 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/API Networking.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/API Networking.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,7 +27,7 @@ API Networking
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/Simulate System Diagram.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/Simulate System Diagram.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -36,19 +36,19 @@ Simulate System Diagram
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/1.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/2.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/3.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/4.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
      <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Caladan/5.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Caladan/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

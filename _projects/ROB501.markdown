@@ -11,11 +11,12 @@ University of Toronto
 
 ROB501: Computer Vision for Robotics course project 2020
 
-[Instructor: Prof. Jonathan Kelly](http://stars.utias.utoronto.ca/~jkelly/){:target="\_blank"} 
 
-[Github repo](https://github.com/houchuyi/Producing-360-Degree-Panoramas-Using-the-CPET-Dataset){:target="\_blank"} 
+<a href="http://stars.utias.utoronto.ca/~jkelly/" target="_blank" style="font-size: 20px; font-weight: bold;">Instructor: Prof. Jonathan Kelly</a>
 
-[Project Final Report](../assets\pdf\rob501_fall_2020_final_project_report.pdf){:target="\_blank"} 
+<a href="https://github.com/houchuyi/Producing-360-Degree-Panoramas-Using-the-CPET-Dataset" target="_blank" style="font-size: 20px; font-weight: bold;">Github repo</a>
+
+<a href="/assets\pdf\rob501_fall_2020_final_project_report.pdf" target="_blank" style="font-size: 20px; font-weight: bold;">Project Final Report</a>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">

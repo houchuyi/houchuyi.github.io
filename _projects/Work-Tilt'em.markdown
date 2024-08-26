@@ -15,7 +15,7 @@ Tilt'em News is a groundbreaking app that empowers users to break free from echo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Unmodal/Tiltem/tiltem.png' | relative_url }}" alt="" title="example image"/>
+        {% include figure.liquid loading="eager" path="assets/img/Unmodal/Tiltem/tiltem.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

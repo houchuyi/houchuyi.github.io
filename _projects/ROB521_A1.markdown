@@ -11,9 +11,10 @@ University of Toronto
 
 ROB521: Mobile Robotics and Perception Course Project 2022
 
-[Instructor: Prof. Steven L. Waslander](https://www.trailab.utias.utoronto.ca/stevenwaslander){:target="\_blank"} 
 
-[Project Report](../assets/pdf/ROB521_A1_report.pdf){:target="\_blank"} 
+<a href="https://www.trailab.utias.utoronto.ca/stevenwaslander" target="_blank" style="font-size: 20px; font-weight: bold;">Instructor: Prof. Steven L. Waslander</a>
+
+<a href="/assets/pdf/ROB521_A1_report.pdf){:target="\_blank" target="_blank" style="font-size: 20px; font-weight: bold;">Project Report</a>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tilt'em News App
+title: Tiltem News App
 description: A brand new experience consuming daily news enhanced by large language models
 img: /assets/img/Unmodal/Tiltem/tiltem-thumbnail.png
 importance: 2

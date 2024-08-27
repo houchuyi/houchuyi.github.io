@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Chuyi Hou
-    - name: Date of Birth
-      value: 17th September 1999
+    - name: Preferred Name
+      value: Sky
     - name: Languages
       value: English, Mandarin
 
@@ -21,17 +21,20 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    - title: Master of Engineering in Mechanical and Industrial, Data Analyst.
+    - title: Master of Engineering in Mechanical and Industrial
       institution: 
       year: 2024
       description:
-        - Description 1.
-    - title: Bachelor of Applied Science in Engineering Science Robotics Option.
+        - Data Analyst Focus
+        - Master of Engineering Project - Application of Language Model in medical field
+    - title: Bachelor of Applied Science in Engineering Science
       institution: 
       year: 2022
       description:
-        - Description 1.
-
+        - Robotics Option
+        - Artificial Intelligence Minor
+        - Business Certificate
+        - 3.86 / 4 cGPA (3rd year to 4th year cumulative)
 
 - title: Experience
   type: time_table
@@ -50,40 +53,29 @@
       institution: Unmodal Research Inc., Toronto, Ontario, Canada
       year: 2022 - Now
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Signal Processing and Machine Learning Engineer
+        - Experienced Signal Processing and Machine Learning Engineer adept in hardware assembly, firmware development, and signal analysis. Expertise in assembling hardware components, creating robust firmware and software interfaces, and implementing advanced signal processing techniques. One of the achievements I am proud of is enabling microcontrollers for multichannel audio output. Bridging the gap between theory and practice, I optimize system performance and contribute to innovative solutions.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - NSERC Summer Research Student Award
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Video Game Design, Board Game, Tennis. 

@@ -4,6 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - houchuyi/MIE1512-Project
-  - houchuyi/TheAuctionHouse
+  - ece1786-2023/Animyth
+  - houchuyi/OpenMobilityData-TransitFeeds-Auto-Update
   - houchuyi/Producing-360-Degree-Panoramas-Using-the-CPET-Dataset

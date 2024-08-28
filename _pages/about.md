@@ -13,7 +13,7 @@ profile:
       <center>
           <a href="https://www.linkedin.com/in/chuyi-hou">LinkedIn</a> | 
           <a href="https://github.com/houchuyi">GitHub</a> |
-          <a href="skyhou1728@gmail.com">Email</a>
+          <a href="mailto:skyhou1728@gmail.com">Email</a>
       </center>
 
 news: true # includes a list of news items

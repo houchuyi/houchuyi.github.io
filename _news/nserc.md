@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-06-30 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 

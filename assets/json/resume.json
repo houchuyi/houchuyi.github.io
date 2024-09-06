@@ -122,16 +122,6 @@
       "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "TODO",
-      "date": "TODO",
-      "issuer": "TODO",
-      "url": "",
-      "icon": "fa-solid fa-location-dot"
-    }
-  
-  ],
   "publications": [
     {
       "name": "pressAR : Vision-based Freehand Touch and Force Sensing",

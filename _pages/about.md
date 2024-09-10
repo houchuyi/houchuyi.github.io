@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Signal Processing Engineer | Machine Learning Engineer | HCI Researcher
+subtitle: Applied Machine Learning Engineer | Signal Processing Engineer  | HCI Researcher
 
 profile:
   align: right

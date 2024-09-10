@@ -1,6 +1,7 @@
 ---
 layout: page
-title: I Will Walk You There - The Intelligent RoboKart
+title: Towards a Scalable Approach for Risk-Averse
+Safety Analysis
 description: Undergrad Thesis 2022
 img: /assets/img/UndergradThesis/thumbnail.png
 # redirect: https://unsplash.com

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Towards a Scalable Approach for Risk-Averse
-Safety Analysis
+title: Towards a Scalable Approach for Risk-Averse Safety Analysis
 description: Undergrad Thesis 2022
 img: /assets/img/UndergradThesis/thumbnail.png
-# redirect: https://unsplash.com
 importance: 2
 category: University
 ---

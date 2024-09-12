@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PARSIR
-description: Simplifies document management with AI-driven gestures for quick edits and modality changes
+description: Simplifies document management with AI-driven gestures for quick edits and modality changes 2024
 img: /assets/img/Unmodal/Parsir/thumbnail.png
 importance: 2
 category: Work

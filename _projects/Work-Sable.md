@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sable
-description: 
+description: Unlocking the Future of Operations with Advanced Digital Twin Technology 2024
 img: /assets/img/Unmodal/Sable/thumbnail.png
 importance: 1
 category: Work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Caladan
-description: An AI-driven platform for realistic sales training through simulated client interactions
+description: An AI-driven platform for realistic sales training through simulated client interactions 2024
 img: /assets/img/Unmodal/Caladan/thumbnail.png
 importance: 2
 category: Work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tiltem News App
-description: A brand new experience consuming daily news enhanced by large language models
+description: A brand new experience consuming daily news enhanced by large language models 2024
 img: /assets/img/Unmodal/Tiltem/tiltem-thumbnail.png
 importance: 2
 category: Work

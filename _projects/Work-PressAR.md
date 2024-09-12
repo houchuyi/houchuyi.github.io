@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PressAR
-description: Vision-based Freehand Touch and Force Sensing
+description: Vision-based Freehand Touch and Force Sensing 2023
 img: /assets/img/Unmodal/PressAR/thumbnail.png
 importance: 2
 category: Work

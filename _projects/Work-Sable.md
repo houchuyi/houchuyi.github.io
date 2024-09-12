@@ -9,7 +9,9 @@ category: Work
 
 Unmodal Research Inc.
 
+Sable harnesses the power of digital twin technology to transform how businesses manage operations, predict maintenance, and innovate. By creating real-time virtual models of physical systems, it offers a seamless integration of advanced analytics and interactive features, going far beyond basic 3D visualization.
 
+Designed for ease of use, the interface mirrors the simplicity of Google Maps, enabling quick onboarding and efficient navigation. Core features include operational management, resource optimization, predictive maintenance, and AI-driven insights—empowering businesses to turn operational challenges into opportunities for growth and enhanced efficiency.
 
 <a href="https://www.youtube.com/playlist?list=PLQj3Su353trwYVG-8IaqRaT-ilFBj5IfM" target="_blank" style="font-size: 20px; font-weight: bold;">Link to Video</a>
 
